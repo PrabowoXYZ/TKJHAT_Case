@@ -1,2 +1,2 @@
 # TKJHAT_Case
-CAD files for the TKJHAT case
+CAD and gcode files for the TKJHAT case
